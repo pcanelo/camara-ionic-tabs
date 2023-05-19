@@ -1,0 +1,8 @@
+{
+  "name": "camara-ionic-tabs",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "bf9d02fd"
+}
